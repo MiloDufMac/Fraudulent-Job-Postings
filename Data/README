@@ -1,0 +1,2 @@
+To find the primary datasets used during analysis, please see the Releases connected to this repository 
+The raw data is housed in the `fake_job_postings` release. The cleaned and modified data used for analysis is housed in the `cleaned_fake_job_postings` release. 
